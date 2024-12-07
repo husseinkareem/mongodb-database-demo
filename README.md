@@ -55,7 +55,6 @@ Lösningen testades både **lokalt** och på **MongoDB Atlas**.
 
 ### **Del 5: Skärmdumpar**
 
-```markdown
 ## **Skärmdumpar**
 ### **1. Data från MongoDB Atlas**
 - **`persons` collection:**
