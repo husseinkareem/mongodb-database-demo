@@ -68,7 +68,7 @@ Lösningen testades både **lokalt** och på **MongoDB Atlas**.
 
 ### **3. Python-skriptets terminalutdata**
 - **Index och data för `persons` & Lookup-query mellan `cars` och `persons`:**
-  ![Python Persons Output](screenshots/python_persons_output.png)
+  ![Python Persons Output](screenshots/persons_output.png)
 
 ## **Testad funktionalitet**
 ### **1. Sammansatt index**
